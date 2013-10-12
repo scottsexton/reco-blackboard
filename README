@@ -1,0 +1,2 @@
+A code example that demonstrates the Blackboard pattern as well as the Publisher-Subscriber pattern.
+This runs as a self-contained module for use in the python interactive shell. For python 2.7. 
